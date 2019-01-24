@@ -1,0 +1,49 @@
+id,member_id,loan_amnt,term,int_rate,installment,grade,emp_title,emp_length,home_ownership,annual_inc,issue_d,loan_status,purpose,title,zip_code,addr_state,last_pymnt_d,last_pymnt_amnt,next_pymnt_d
+1077501,1296599,5000, 36 months,10.65%,162.87,B,AIR RESOURCES BOARD,10+ years,RENT,24000,12/1/2011,Current,credit_card,Computer,860xx,AZ,14-Nov,162.87,14-Dec
+1077430,1314167,2500, 60 months,15.27%,59.83,C,Ryder,< 1 year,RENT,30000,12/1/2011,Charged Off,car,bike,309xx,GA,13-Apr,119.66,15-Jan
+1077175,1313524,2400, 36 months,15.96%,84.33,C,MKC Accounting ,10+ years,RENT,12252,12/1/2011,Fully Paid,small_business,real estate business,606xx,IL,14-Jun,649.91,15-Jan
+1076863,1277178,10000, 36 months,13.49%,339.31,C,AIR RESOURCES BOARD,10+ years,RENT,49200,12/1/2011,Current,other,personel,917xx,CA,14-Nov,339.31,14-Dec
+1075358,1311748,3000, 60 months,12.69%,67.79,B,University Medical Group,1 year,RENT,80000,12/1/2011,Current,other,Personal,972xx,OR,14-Nov,67.79,14-Dec
+1075269,1311441,5000, 36 months,7.90%,156.46,A,Veolia Transportaton,3 years,RENT,36000,12/1/2011,Current,wedding,My wedding loan I promise to pay back,852xx,AZ,14-Nov,156.46,14-Dec
+1069639,1304742,7000, 60 months,15.96%,170.08,C,Southern Star Photography,8 years,RENT,47004,12/1/2011,Current,debt_consolidation,Loan,280xx,NC,14-Nov,170.08,15-Jan
+1072053,1288686,3000, 36 months,18.64%,109.43,E,MKC Accounting ,9 years,RENT,48000,12/1/2011,Current,car,Car Downpayment,900xx,CA,14-Nov,109.43,14-Dec
+1071795,1306957,5600, 60 months,21.28%,152.39,F,UCLA,4 years,OWN,40000,12/1/2011,Charged Off,small_business,Expand Business & Buy Debt Portfolio,958xx,CA,12-Apr,152.39,14-Dec
+1071570,1306721,5375, 60 months,12.69%,121.45,B,Starbucks,< 1 year,RENT,15000,12/1/2011,Charged Off,other,Building my credit history.,774xx,TX,12-Nov,121.45,15-Jan
+1070078,1305201,6500, 60 months,14.65%,153.45,C,Southwest Rural metro,5 years,OWN,72000,12/1/2011,Fully Paid,debt_consolidation,High intrest Consolidation,853xx,AZ,13-Jun,1655.54,15-Jan
+1069908,1305008,12000, 36 months,12.69%,402.54,B,UCLA,10+ years,OWN,75000,12/1/2011,Fully Paid,debt_consolidation,Consolidation,913xx,CA,13-Sep,6315.3,15-Jan
+1064687,1298717,9000, 36 months,13.49%,305.38,C,Va. Dept of Conservation/Recreation,< 1 year,RENT,30000,12/1/2011,Charged Off,debt_consolidation,freedom,245xx,VA,12-Jul,305.38,15-Jan
+1069866,1304956,3000, 36 months,9.91%,96.68,B,Target,3 years,RENT,15000,12/1/2011,Current,credit_card,citicard fund,606xx,IL,14-Nov,96.68,14-Dec
+1069057,1303503,10000, 36 months,10.65%,325.74,B,SFMTA,3 years,RENT,100000,12/1/2011,Charged Off,other,Other Loan,951xx,CA,13-Oct,325.74,15-Jan
+1069759,1304871,1000, 36 months,16.29%,35.31,D,Internal revenue Service,< 1 year,RENT,28000,12/1/2011,Current,debt_consolidation,Debt Consolidation Loan,641xx,MO,14-Nov,35.31,14-Dec
+1065775,1299699,10000, 36 months,15.27%,347.98,C,Chin's Restaurant,4 years,RENT,42000,12/1/2011,Current,home_improvement,Home,921xx,CA,14-Nov,347.98,14-Dec
+1069971,1304884,3600, 36 months,6.03%,109.57,A,Duracell,10+ years,MORTGAGE,110000,12/1/2011,Fully Paid,major_purchase,Holiday,067xx,CT,13-May,583.45,15-Jan
+1062474,1294539,6000, 36 months,11.71%,198.46,B,Connection Inspection,1 year,MORTGAGE,84000,12/1/2011,Current,medical,Medical,890xx,UT,14-Nov,198.46,14-Dec
+1069742,1304855,9200, 36 months,6.03%,280.01,A,Network Interpreting Service,6 years,RENT,77385.19,12/1/2011,Fully Paid,debt_consolidation,lowerratemeanseasiertogetoutofdebt!,921xx,CA,12-Jul,8061.1,15-Jan
+1069740,1284848,20250, 60 months,15.27%,484.63,C,Archdiocese of Galveston Houston,3 years,RENT,43370,12/1/2011,Current,debt_consolidation,Freedom From Credit Cards,770xx,TX,14-Nov,484.63,14-Dec
+1039153,1269083,21000, 36 months,12.42%,701.73,B,Osram Sylvania,10+ years,RENT,105000,12/1/2011,Charged Off,debt_consolidation,Debt Cleanup,335xx,FL,13-Sep,701.73,15-Jan
+1069710,1304821,10000, 36 months,11.71%,330.76,B,Value Air,10+ years,OWN,50000,12/1/2011,Current,credit_card,Credit Card Loan,799xx,TX,14-Nov,330.76,14-Dec
+1069700,1304810,10000, 36 months,11.71%,330.76,B,Wells Fargo Bank,5 years,RENT,50000,12/1/2011,Fully Paid,debt_consolidation,Debt Consolidation,917xx,CA,13-Oct,4942.63,15-Jan
+1069559,1304634,6000, 36 months,11.71%,198.46,B,bmg-educational,1 year,RENT,76000,12/1/2011,Charged Off,major_purchase,cash,900xx,CA,12-Oct,198.46,14-Dec
+1069697,1273773,15000, 36 months,9.91%,483.38,B,Winfield Pathology Consultants,2 years,MORTGAGE,92000,12/1/2011,Fully Paid,credit_card,No more credit card debt!,605xx,IL,12-Sep,2447.05,15-Jan
+1069800,1304679,15000, 36 months,14.27%,514.64,C,nyc transit,9 years,RENT,60000,12/1/2011,Charged Off,debt_consolidation,consolidation,103xx,NY,12-Sep,0,14-Dec
+1069657,1304764,5000, 60 months,16.77%,123.65,D,Frito Lay,2 years,RENT,50004,12/1/2011,Charged Off,other,Other,150xx,PA,12-Dec,123.65,14-Dec
+1069799,1304678,4000, 36 months,11.71%,132.31,B,Shands Hospital at the University of Fl,10+ years,MORTGAGE,106000,12/1/2011,Fully Paid,debt_consolidation,Debt Consolidation,326xx,FL,13-Apr,2638.77,14-Dec
+1047704,1278806,8500, 36 months,11.71%,281.15,B,Oakridge homes,< 1 year,RENT,25000,12/1/2011,Current,credit_card,Credit card repayment loan,564xx,MN,14-Nov,281.15,14-Dec
+1032111,1261745,4375, 36 months,7.51%,136.11,A,John Wiley Jr.,7 years,MORTGAGE,17108,12/1/2011,Current,debt_consolidation,Debt Consolidation,141xx,NY,14-Nov,136.11,14-Dec
+1069539,1304608,31825, 36 months,7.90%,995.82,A,Audubon Mutual Housing Corporation,5 years,MORTGAGE,75000,12/1/2011,Fully Paid,debt_consolidation,Debt Consolidation Loan,080xx,NJ,13-Aug,16966.7,15-Jan
+1065420,1299514,10000, 60 months,15.96%,242.97,C,US Legal Support,2 years,RENT,29120,12/1/2011,Current,debt_consolidation,Brown Eyes Loan,330xx,FL,14-Nov,242.97,14-Dec
+1069591,1304289,5000, 36 months,8.90%,158.77,A,Good Samaritan Society,2 years,RENT,24044,12/1/2011,Current,debt_consolidation,Consolidation,974xx,OR,14-Nov,158.77,14-Dec
+1069530,1291365,7000, 36 months,15.96%,245.97,C,GREG BARRETT DRYWALL,7 years,RENT,34000,12/1/2011,Current,credit_card,Credit Card Loan,934xx,CA,14-Nov,245.97,14-Dec
+1069522,1304589,12400, 36 months,10.65%,403.91,B,Sharp Lawn Inc.,10+ years,RENT,41000,12/1/2011,Current,credit_card,December 2011 Credit Card Loan,405xx,KY,14-Nov,403.91,14-Dec
+1069361,1304255,10800, 36 months,9.91%,348.03,B,Department of Justice,2 years,RENT,55596,12/1/2011,Fully Paid,moving,Moving to better job; help a veteran!,946xx,CA,13-Nov,3483.79,15-Jan
+1069357,1304251,15000, 36 months,7.90%,469.36,A,Gateway Hospice,1 year,RENT,45000,12/1/2011,Fully Paid,debt_consolidation,Debt Consolidation Loan,445xx,OH,14-Jan,5872.8,15-Jan
+1069356,1304250,6000, 36 months,12.42%,200.5,B,Cox Communications,1 year,RENT,36852,12/1/2011,Fully Paid,debt_consolidation,Credit Card Consolidation,850xx,AZ,14-Apr,1923.53,15-Jan
+1069346,1304237,12500, 60 months,12.69%,282.44,B,United States Infrastructure Corporation,1 year,RENT,27000,12/1/2011,Current,debt_consolidation,Credit card debt,604xx,IL,14-Nov,282.44,14-Dec
+1067573,1301955,9600, 36 months,7.51%,298.67,A,Nucor Building Systems,4 years,RENT,68004,12/1/2011,Current,other,Other Loan,292xx,SC,14-Nov,298.67,14-Dec
+1069506,1304567,12000, 36 months,7.90%,375.49,A,John Wiley Jr.,10+ years,RENT,62300,12/1/2011,Current,debt_consolidation,Debt Consolidation,088xx,NJ,14-Nov,375.49,14-Dec
+1069314,1304202,3000, 36 months,18.25%,108.84,D,Sharp Lawn Inc.,9 years,MORTGAGE,65000,12/1/2011,Current,other,Year End Cleanup,180xx,PA,14-Nov,108.84,14-Dec
+1060578,1292332,4400, 36 months,16.77%,156.37,D,citizens bank,10+ years,RENT,55000,12/1/2011,Current,debt_consolidation,debt,029xx,RI,14-Nov,156.37,14-Dec
+1069469,1304526,6000, 36 months,6.03%,182.62,A,"Stewart Enterprises, Inc.",10+ years,MORTGAGE,45600,12/1/2011,Fully Paid,debt_consolidation,Debt-Consolidation ,700xx,LA,12-Jul,15.01,15-Jan
+1051117,1282787,14000, 36 months,9.91%,451.15,B,golfers warehouse,6 years,RENT,80000,12/1/2011,Current,small_business,Small Business Loan,010xx,MA,14-Nov,451.15,14-Dec
+1069465,1304521,5000, 36 months,8.90%,158.77,A,STERIS Corporation,10+ years,MORTGAGE,100000,12/1/2011,Late(31-120 days),debt_consolidation,Debt Consolidation for a better life,441xx,OH,14-Aug,158.77,14-Dec
+1069283,1304166,10000, 36 months,10.65%,325.74,B,Costco Wholesale Corp.,6 years,RENT,27000,12/1/2011,Current,other,Other Loan,104xx,NY,14-Nov,325.74,14-Dec
